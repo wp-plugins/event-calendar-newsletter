@@ -29,7 +29,7 @@ Some additional features I'm considering:
 * Direct integration with MailChimp, Constant Contact, and others to create newsletters
 * Support for outputting events newsletter into a custom post type
 
-But let me know in the support threads or by <a href="brian@brianhogg.com">email</a> what features you'd like to see.
+But let me know in the support threads or by <a href="mailto:brian@brianhogg.com">email</a> what features you'd like to see.
 
 == Installation ==
 

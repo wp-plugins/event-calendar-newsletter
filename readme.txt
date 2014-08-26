@@ -4,7 +4,7 @@ Donate link: http://brianhogg.com/event-calendar-newsletter/
 Tags: events, calendar, event, events, newsletter, venue, organizer, dates, date, format
 Requires at least: 3.0.1
 Tested up to: 3.9.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,7 +39,12 @@ You can either search for Ultimate Event Calendar Newsletter in the Plugins --> 
 2. Select the Upload option, then Choose File...
 3. In the pop-up select the zip file downloaded from this plugin page
 4. Follow the instructions after the upload completes
-5. Go to Event
+5. Go to Event Calendar Newsletter and complete the form
+
+If you don't already have your event calendar plugin installed and configured, you'll also need to install that plugin.  Plugins currently supported:
+
+* [The Events Calendar](https://wordpress.org/plugins/the-events-calendar/)
+* [Ajax Event Calendar](http://wordpress.org/plugins/ajax-event-calendar/)
 
 == Frequently Asked Questions ==
 

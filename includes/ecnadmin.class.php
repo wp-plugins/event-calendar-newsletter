@@ -1,5 +1,7 @@
 <?php
 
+define( 'ECN_VERSION', 1 );
+
 class ECNAdmin {
     public function __construct() {
         add_action( 'init', array( &$this, 'init' ) );
@@ -20,8 +22,10 @@ class ECNAdmin {
     }
 
     function enqueue_scripts() {
-        wp_register_script( 'ecn.admin.js', plugins_url( 'js/admin.js', __FILE__ ), array( 'jquery', 'backbone', 'underscore', 'jquery-ui-core', 'jquery-ui-sortable' ), CLAW_VERSION );
+        wp_register_script( 'ecn.admin.js', plugins_url( 'js/admin.js', __FILE__ ), array( 'jquery', 'backbone', 'underscore', 'jquery-ui-core', 'jquery-ui-sortable' ), ECN_VERSION );
         wp_enqueue_script( 'ecn.admin.js' );
+        wp_register_Style( 'ecn.admin.css', plugins_url( 'css/admin.css', __FILE__ ), false, ECN_VERSION );
+        wp_enqueue_style( 'ecn.admin.css' );
     }
 
     function admin_menu() {

@@ -3,7 +3,7 @@
 Plugin Name: Event Calendar Newsletter
 Plugin URI: http://wordpress.org/extend/plugins/event-calendar-newsletter/
 Description: A plugin that fetches events from common event calendar plugins, and outputs newsletter-friendly text
-Version: 1.0.0
+Version: 1.1
 Author: Brian Hogg
 Author URI: http://brianhogg.com
 License: GPL2

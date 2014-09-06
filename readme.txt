@@ -3,7 +3,7 @@ Contributors: brianhogg
 Donate link: http://brianhogg.com/event-calendar-newsletter/
 Tags: events, calendar, event, events, newsletter, venue, organizer, dates, date, format
 Requires at least: 3.0.1
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

@@ -12,14 +12,14 @@ Format your events calendar into something you can easily put inside a newslette
 
 == Description ==
 
-Take your events calendar feed and turn it into newsletter-friendly text!  No more manual copying and pasting from your calendar.
+Take your events calendar feed and turn it into a newsletter-friendly format, so you can copy into your MailChimp, Constant Contact or other newsletter sending service.  No more manual copying, pasting and formatting from your calendar.
 
 Compatible with:
 
 * [The Events Calendar](https://wordpress.org/plugins/the-events-calendar/)
 * [Ajax Event Calendar](http://wordpress.org/plugins/ajax-event-calendar/)
 
-Is your calendar not supported or looking for other features?  Let me know in the support threads and I'll see what I can do!  Contributions also welcome.
+Want your event calendar supported?  <a href="mailto:brian@brianhogg.com">Let me know</a>.
 
 Some additional features I'm considering:
 
@@ -33,7 +33,7 @@ But let me know in the support threads or by <a href="mailto:brian@brianhogg.com
 
 == Installation ==
 
-You can either search for Ultimate Event Calendar Newsletter in the Plugins --> Add New area, or:
+You can either search for Event Calendar Newsletter in the Plugins --> Add New area, or:
 
 1. Go to Plugins --> Add New
 2. Select the Upload option, then Choose File...
@@ -46,10 +46,6 @@ If you don't already have your event calendar plugin installed and configured, y
 * [The Events Calendar](https://wordpress.org/plugins/the-events-calendar/)
 * [Ajax Event Calendar](http://wordpress.org/plugins/ajax-event-calendar/)
 
-== Frequently Asked Questions ==
-
-Ask your questions in the support area
-
 == Screenshots ==
 
 1. Select the calendar where you'd like to pull your events from, how far into the future, and define the format.
@@ -57,6 +53,9 @@ Ask your questions in the support area
 3. HTML output is displayed in addition to the formatted output.
 
 == Changelog ==
+
+= 1.1 =
+* Minor fixes
 
 = 1.0 =
 * Initial release

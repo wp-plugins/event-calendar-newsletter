@@ -349,7 +349,7 @@ class ECNCalendarEvent {
                     break;
                 case 'event_cost':
                     if ( $this->get_event_cost() )
-                        $retval = str_replace( '{event_cost}', 'Cost: ' . $this->get_event_cost(), $retval );
+                        $retval = str_replace( '{event_cost}', 'Cost: ' . ( $this->get_event_cost() > 0 ? '$' : '' ) . $this->get_event_cost(), $retval );
                     else
                         $retval = str_replace( '{event_cost}', '', $retval );
                     break;

@@ -3,7 +3,7 @@ Contributors: brianhogg
 Donate link: http://brianhogg.com/event-calendar-newsletter/
 Tags: events, calendar, event, events, newsletter, venue, organizer, dates, date, format
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.1.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -53,6 +53,10 @@ If you don't already have your event calendar plugin installed and configured, y
 3. HTML output is displayed in addition to the formatted output.
 
 == Changelog ==
+
+= 1.2 =
+* Fix formatting of free event cost
+* Added ecn_admin_capability filter to modify who has access to the events calendar screen
 
 = 1.1 =
 * Minor fixes

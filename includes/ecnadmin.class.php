@@ -29,7 +29,7 @@ class ECNAdmin {
     }
 
     function admin_menu() {
-        add_menu_page( 'Event Calendar Newsletter', 'Event Calendar Newsletter', 'add_users', 'eventcalendarnewsletter', array( &$this, 'admin_page' ), null, 41 );
+        add_menu_page( 'Event Calendar Newsletter', 'Event Calendar Newsletter', apply_filters( 'ecn_admin_capability', 'add_users' ), 'eventcalendarnewsletter', array( &$this, 'admin_page' ), null, 41 );
     }
 
     function get_available_calendar_feeds() {

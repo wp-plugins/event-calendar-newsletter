@@ -19,6 +19,8 @@ Compatible with:
 * [The Events Calendar](https://wordpress.org/plugins/the-events-calendar/)
 * [Ajax Event Calendar](http://wordpress.org/plugins/ajax-event-calendar/)
 
+[youtube http://www.youtube.com/watch?v=7EiKx_WSesk]
+
 Want your event calendar supported?  <a href="mailto:brian@brianhogg.com">Let me know</a>.
 
 Some additional features I'm considering:
